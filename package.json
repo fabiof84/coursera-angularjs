@@ -1,0 +1,24 @@
+{
+  "name": "coursera-angularjs",
+  "version": "1.0.0",
+  "description": "Coursera Single Page Web Applications with AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --directory --files \"**/*\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiof84/coursera-angularjs.git"
+  },
+  "keywords": [
+    "coursera",
+    "angularjs"
+  ],
+  "author": "Fabio Fierro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiof84/coursera-angularjs/issues"
+  },
+  "homepage": "https://github.com/fabiof84/coursera-angularjs#readme"
+}
